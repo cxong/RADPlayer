@@ -1,0 +1,87 @@
+# executables
+*.exe*
+*.zip
+radplayer
+# tests
+*_test
+
+# CMake stuff
+*CMakeCache.txt
+CMakeFiles/
+*cmake_install.cmake
+Makefile
+.metadata/
+RemoteSystemsTempFiles/
+*.dir/
+CPack*
+_CPack_Packages/
+CTestTestfile.cmake
+DartConfiguration.tcl
+Testing/
+install_manifest_Runtime.txt
+*.deb
+*.rpm
+__pycache__/
+.cmake/
+compile_commands.json
+
+# Linux
+bin/
+share/
+include/
+
+# Visual Studio
+enc_temp_folder/
+Debug/
+Release/
+RelWithDebInfo/
+out/
+Win32/
+*.opensdf
+*.sdf
+*.suo
+*.dll
+*.psess
+*.vcxproj*
+*.vspx
+*.sln
+*.ilk
+*.pdb
+*.tmp
+*.VC.*
+.vs/
+CMakeSettings.json
+VSInheritEnvironments.txt
+
+# XCode
+XCBuildData/
+CMakeScripts/
+*.xcodeproj/
+.DS_Store
+*.dmg
+*.app/
+
+# CLion
+.idea/
+*.cbp
+
+# VS Code
+.vscode/
+
+# Ninja
+.ninja*
+*.ninja
+
+# Other
+*.lnk
+*.log
+*.o
+*.a
+*.so
+*.so.*
+*.swp
+Makefile.*
+*.tar.gz
+tmp
+Thumbs.db
+.config/
